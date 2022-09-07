@@ -1,3 +1,7 @@
-#! /bin/sh
+#! /usr/bin/env bash
 
-echo "Ola mundo"
+
+# Cometario
+echo "Hello ${1} bem vindo"
+
+#Vamos Imprimir um Ola mundo!
